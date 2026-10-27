@@ -1,1 +1,1 @@
-Device alert: critical
+Device alert: offline1
